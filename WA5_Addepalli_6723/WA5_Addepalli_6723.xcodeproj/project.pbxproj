@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		424210672CB739E800B5638A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 424210482CB739E700B5638A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4242104F2CB739E700B5638A;
+			remoteInfo = WA5_Addepalli_6723;
+		};
+		424210712CB739E800B5638A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 424210482CB739E700B5638A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4242104F2CB739E700B5638A;
+			remoteInfo = WA5_Addepalli_6723;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		424210502CB739E700B5638A /* WA5_Addepalli_6723.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WA5_Addepalli_6723.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		424210662CB739E800B5638A /* WA5_Addepalli_6723Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WA5_Addepalli_6723Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		424210702CB739E800B5638A /* WA5_Addepalli_6723UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WA5_Addepalli_6723UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		424210782CB739E800B5638A /* Exceptions for "WA5_Addepalli_6723" folder in "WA5_Addepalli_6723" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 4242104F2CB739E700B5638A /* WA5_Addepalli_6723 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		424210522CB739E700B5638A /* WA5_Addepalli_6723 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				424210782CB739E800B5638A /* Exceptions for "WA5_Addepalli_6723" folder in "WA5_Addepalli_6723" target */,
+			);
+			path = WA5_Addepalli_6723;
+			sourceTree = "<group>";
+		};
+		424210692CB739E800B5638A /* WA5_Addepalli_6723Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = WA5_Addepalli_6723Tests;
+			sourceTree = "<group>";
+		};
+		424210732CB739E800B5638A /* WA5_Addepalli_6723UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = WA5_Addepalli_6723UITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4242104D2CB739E700B5638A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		424210632CB739E800B5638A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4242106D2CB739E800B5638A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		424210472CB739E700B5638A = {
+			isa = PBXGroup;
+			children = (
+				424210522CB739E700B5638A /* WA5_Addepalli_6723 */,
+				424210692CB739E800B5638A /* WA5_Addepalli_6723Tests */,
+				424210732CB739E800B5638A /* WA5_Addepalli_6723UITests */,
+				424210512CB739E700B5638A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		424210512CB739E700B5638A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				424210502CB739E700B5638A /* WA5_Addepalli_6723.app */,
+				424210662CB739E800B5638A /* WA5_Addepalli_6723Tests.xctest */,
+				424210702CB739E800B5638A /* WA5_Addepalli_6723UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4242104F2CB739E700B5638A /* WA5_Addepalli_6723 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 424210792CB739E800B5638A /* Build configuration list for PBXNativeTarget "WA5_Addepalli_6723" */;
+			buildPhases = (
+				4242104C2CB739E700B5638A /* Sources */,
+				4242104D2CB739E700B5638A /* Frameworks */,
+				4242104E2CB739E700B5638A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				424210522CB739E700B5638A /* WA5_Addepalli_6723 */,
+			);
+			name = WA5_Addepalli_6723;
+			packageProductDependencies = (
+			);
+			productName = WA5_Addepalli_6723;
+			productReference = 424210502CB739E700B5638A /* WA5_Addepalli_6723.app */;
+			productType = "com.apple.product-type.application";
+		};
+		424210652CB739E800B5638A /* WA5_Addepalli_6723Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4242107E2CB739E800B5638A /* Build configuration list for PBXNativeTarget "WA5_Addepalli_6723Tests" */;
+			buildPhases = (
+				424210622CB739E800B5638A /* Sources */,
+				424210632CB739E800B5638A /* Frameworks */,
+				424210642CB739E800B5638A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				424210682CB739E800B5638A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				424210692CB739E800B5638A /* WA5_Addepalli_6723Tests */,
+			);
+			name = WA5_Addepalli_6723Tests;
+			packageProductDependencies = (
+			);
+			productName = WA5_Addepalli_6723Tests;
+			productReference = 424210662CB739E800B5638A /* WA5_Addepalli_6723Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4242106F2CB739E800B5638A /* WA5_Addepalli_6723UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 424210812CB739E800B5638A /* Build configuration list for PBXNativeTarget "WA5_Addepalli_6723UITests" */;
+			buildPhases = (
+				4242106C2CB739E800B5638A /* Sources */,
+				4242106D2CB739E800B5638A /* Frameworks */,
+				4242106E2CB739E800B5638A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				424210722CB739E800B5638A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				424210732CB739E800B5638A /* WA5_Addepalli_6723UITests */,
+			);
+			name = WA5_Addepalli_6723UITests;
+			packageProductDependencies = (
+			);
+			productName = WA5_Addepalli_6723UITests;
+			productReference = 424210702CB739E800B5638A /* WA5_Addepalli_6723UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		424210482CB739E700B5638A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					4242104F2CB739E700B5638A = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					424210652CB739E800B5638A = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 4242104F2CB739E700B5638A;
+					};
+					4242106F2CB739E800B5638A = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 4242104F2CB739E700B5638A;
+					};
+				};
+			};
+			buildConfigurationList = 4242104B2CB739E700B5638A /* Build configuration list for PBXProject "WA5_Addepalli_6723" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 424210472CB739E700B5638A;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 424210512CB739E700B5638A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4242104F2CB739E700B5638A /* WA5_Addepalli_6723 */,
+				424210652CB739E800B5638A /* WA5_Addepalli_6723Tests */,
+				4242106F2CB739E800B5638A /* WA5_Addepalli_6723UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4242104E2CB739E700B5638A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		424210642CB739E800B5638A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4242106E2CB739E800B5638A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4242104C2CB739E700B5638A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		424210622CB739E800B5638A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4242106C2CB739E800B5638A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		424210682CB739E800B5638A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4242104F2CB739E700B5638A /* WA5_Addepalli_6723 */;
+			targetProxy = 424210672CB739E800B5638A /* PBXContainerItemProxy */;
+		};
+		424210722CB739E800B5638A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4242104F2CB739E700B5638A /* WA5_Addepalli_6723 */;
+			targetProxy = 424210712CB739E800B5638A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4242107A2CB739E800B5638A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X3N5JP69PB;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WA5_Addepalli_6723/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sameerNEUios.WA5-Addepalli-6723";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4242107B2CB739E800B5638A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X3N5JP69PB;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WA5_Addepalli_6723/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sameerNEUios.WA5-Addepalli-6723";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4242107C2CB739E800B5638A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4242107D2CB739E800B5638A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4242107F2CB739E800B5638A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X3N5JP69PB;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sameerNEUios.WA5-Addepalli-6723Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WA5_Addepalli_6723.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WA5_Addepalli_6723";
+			};
+			name = Debug;
+		};
+		424210802CB739E800B5638A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X3N5JP69PB;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sameerNEUios.WA5-Addepalli-6723Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WA5_Addepalli_6723.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WA5_Addepalli_6723";
+			};
+			name = Release;
+		};
+		424210822CB739E800B5638A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X3N5JP69PB;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sameerNEUios.WA5-Addepalli-6723UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WA5_Addepalli_6723;
+			};
+			name = Debug;
+		};
+		424210832CB739E800B5638A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X3N5JP69PB;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sameerNEUios.WA5-Addepalli-6723UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WA5_Addepalli_6723;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4242104B2CB739E700B5638A /* Build configuration list for PBXProject "WA5_Addepalli_6723" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4242107C2CB739E800B5638A /* Debug */,
+				4242107D2CB739E800B5638A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		424210792CB739E800B5638A /* Build configuration list for PBXNativeTarget "WA5_Addepalli_6723" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4242107A2CB739E800B5638A /* Debug */,
+				4242107B2CB739E800B5638A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4242107E2CB739E800B5638A /* Build configuration list for PBXNativeTarget "WA5_Addepalli_6723Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4242107F2CB739E800B5638A /* Debug */,
+				424210802CB739E800B5638A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		424210812CB739E800B5638A /* Build configuration list for PBXNativeTarget "WA5_Addepalli_6723UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				424210822CB739E800B5638A /* Debug */,
+				424210832CB739E800B5638A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 424210482CB739E700B5638A /* Project object */;
+}

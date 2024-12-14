@@ -1,0 +1,6 @@
+framework module Pods_App9 {
+  umbrella header "Pods-App9-umbrella.h"
+
+  export *
+  module * { export * }
+}
